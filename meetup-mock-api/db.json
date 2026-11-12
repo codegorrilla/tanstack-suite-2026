@@ -1,0 +1,34 @@
+{
+	"events": [
+		{
+			"id": "react-Kolata",
+			"title": "React Kolkata",
+			"date": "2026-08-15",
+			"location": "Salt Lake Sector V",
+			"description": "The largest gathering of React developers in the city. Expect deep dives into Tanstack, Next.js and modern frontend architecture.",
+			"attendees": 120,
+			"city": "Kolkata",
+			"tech": "React"
+		},
+		{
+			"id": "react-Bangalore",
+			"title": "React Bangalore",
+			"date": "2026-10-15",
+			"location": "White Field City",
+			"description": "The largest gathering of React developers in the city. Expect deep dives into Tanstack, Next.js and modern frontend architecture.",
+			"attendees": 340,
+			"city": "Bangalore",
+			"tech": "React"
+		},
+		{
+			"id": "react-Tapascript",
+			"title": "React Tapascript",
+			"date": "2026-10-25",
+			"location": "Salt Lake Sector V",
+			"description": "The largest gathering of React developers in the community. Expect deep dives into Tanstack, Next.js.",
+			"attendees": 100,
+			"city": "Bangalore",
+			"tech": "React"
+		}
+	]
+}
